@@ -22,7 +22,7 @@ do this by cloning the repository and building the app with Android Studio.
 git clone https://github.com/dan-koller/Android-Tip-Calculator
 ```
 
-_Note that the app targets Android 10 (API level 29) and above._
+_Note that the app targets Android 12 (API level 32). The minimum SDK version is 29 (Android 10)._
 
 ## Technologies
 
